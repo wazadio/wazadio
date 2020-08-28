@@ -1,2 +1,2 @@
-# web-pertama.github.io
+# TST Web
 belajar membuat web
